@@ -16,26 +16,7 @@ The objective of this project is to create a resume generator bot that can extra
     5) Word Automation: The bot will use the “Word Automation” feature of UiPath Studio to create a Word template that includes the necessary fields for a resume, such as name, contact information, education, work experience, and skills.
     6) Replace Text: The bot will use the “Replace Text” activity of UiPath Studio to replace the placeholder text in the Word template with the extracted information from the CSV file.
     7) Save As: The bot will use the “Save As” activity of UiPath Studio to save the generated resume in the desired format, such as PDF or Word.
-    
-# Input : 
-      1) Sample Input Resume Template
-  
-  ![image](https://user-images.githubusercontent.com/113370126/236474853-a3c20331-1684-46c0-b355-46fbdb74d6fa.png)
-  
-      2) Sample Input Data in Excel
-  
-  ![image](https://user-images.githubusercontent.com/113370126/236476086-87d98d78-86d1-4731-a9b1-6ab575a0ca85.png)
-  
-  
-  # Output :
-  
-  Video Demo 🔗 https://drive.google.com/file/d/1fcOqTyv66GwRI47laj29MFqazQNpOeza/view?usp=sharing
-    
-      Sample Output as PDF File
-    
-  ![image](https://user-images.githubusercontent.com/113370126/236479520-0c2a5069-7212-4f20-bea2-83f1c272b90f.png)
-  
-  Here Final Generated Resume --> [Abhishek Kusalkar.pdf](https://github.com/Abhikar12/Resume-Generator-Bot-UiPath-RPA/files/11406976/Abhishek.Kusalkar.pdf)
+
 
 
     
